@@ -9,4 +9,4 @@ Title => SASHAKT : A Platform for Women to Earn, Learn and Change
 
 Team Name => TECH_REVOATOR
 
-Team Members => Priya Singh
+Team Member => Priya Singh
