@@ -3,9 +3,9 @@ MICROSOFT AZURE WOMEN'S HACKATHON 2022
 
 
 
-Topic => Build solutions to enable economic freedom for women
+Topic => Tech-based solutions to make education accessible to rural women
 
-Title => SASHAKT : A Platform for Women to Earn, Learn and Change
+Title => SASHAKT : A Platform for Women to Learn, Earn and Change
 
 Team Name => TECH_REVOATOR
 
