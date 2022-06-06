@@ -25,8 +25,11 @@ It is no secret that today some of the most flourishing handicraft and artifact 
 
 
 Technical Stack Used: HTML, CSS, JAVASCRIPT
+
 Framework Used: Bootstrap
+
 Cloud Services: Microsoft Azure Cognitive Services , Azure static web app
+
 Editor used: VS Code
 
 
